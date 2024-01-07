@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jpackage" name="KeyboardCounter">
+    <output-path>$PROJECT_DIR$/out/artifacts/KeyboardCounter</output-path>
+    <properties id="jpackage-properties">
+      <options>
+        <option name="version" value="" />
+        <option name="copyright" value="" />
+        <option name="description" value="" />
+        <option name="vendor" value="" />
+        <option name="mainClass" value="wutdahack.keyboardcounter.KeyboardCounter" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="artifact" artifact-name="KeyboardCounter:jar" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KeyboardCounter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KeyboardCounter_jar</output-path>
+    <root id="archive" name="KeyboardCounter.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="KeyboardCounter" />
+    </root>
+  </artifact>
+</component>
